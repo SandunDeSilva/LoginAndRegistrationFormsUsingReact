@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LoginAndRegistrationFormsUsingReact/static/css/main.03a60816.css",
+    "main.js": "/LoginAndRegistrationFormsUsingReact/static/js/main.5c93481d.js",
+    "static/js/453.9ff8ad3e.chunk.js": "/LoginAndRegistrationFormsUsingReact/static/js/453.9ff8ad3e.chunk.js",
+    "static/media/forest_autumn_path_125183_1366x768.jpg": "/LoginAndRegistrationFormsUsingReact/static/media/forest_autumn_path_125183_1366x768.84162793b7346f8408e9.jpg",
+    "index.html": "/LoginAndRegistrationFormsUsingReact/index.html",
+    "main.03a60816.css.map": "/LoginAndRegistrationFormsUsingReact/static/css/main.03a60816.css.map",
+    "main.5c93481d.js.map": "/LoginAndRegistrationFormsUsingReact/static/js/main.5c93481d.js.map",
+    "453.9ff8ad3e.chunk.js.map": "/LoginAndRegistrationFormsUsingReact/static/js/453.9ff8ad3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03a60816.css",
+    "static/js/main.5c93481d.js"
+  ]
+}
